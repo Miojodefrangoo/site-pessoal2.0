@@ -1,0 +1,38 @@
+#body{
+    margin: 20px;
+    background-color: #c7ede8;
+}
+
+
+#cards{
+    text-align: center;
+    margin: 30px;
+}
+
+.row row-cols-1 row-cols-md-3 g-4{
+    height: 350px;
+    width: 150px;
+}
+.rodape-prin
+{
+    background-color: #98d9b6;       
+    clear: both;
+    padding: 28px;         
+    color: rgb(250,255,250);
+    font-size: 15px;
+    font-family: "arial", sans-serif;
+}
+
+#p{
+    text-align: center;
+}
+
+.btn-group{
+    margin: 10px;
+}
+.card-group{
+    margin: 10px;
+}
+.card mb-3{
+    margin: 10px !important;
+}
